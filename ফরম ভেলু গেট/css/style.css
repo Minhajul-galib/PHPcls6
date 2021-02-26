@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.myform{
+    background-image: url(../img/black\ img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.container{
+    width: 100%;
+    text-align: center;
+    
+}
+.container form{
+    display: inline-grid;
+    margin-top: 70px;
+}
+input {
+        text-align: initial;
+        padding: 10px 80px 10px 6px;
+        width: 226px;
+        margin-bottom: 6px;
+    }
+    input[type="submit"] {
+        margin: 0px 0px 0px 253.5px;
+        width: 20%;
+        text-align: end;
+        padding: 10px 3px 10px 0px;
+    }
